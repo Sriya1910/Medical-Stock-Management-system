@@ -1,4 +1,4 @@
-# Medical-Stock-Management-system
+# SRM Medical-Store-Management-system
 C++ Project
 The SRM Medical store system software is a medicine stock inventory system used in SRM medical stores that runs for the students and the faculties. This software stores the details of medicine purchase stock and the sell stock. This software generates a bill for every sale and updates the quantity automatically
  Medicine Stock Record Management System:
